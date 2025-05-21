@@ -1,0 +1,6 @@
+Booking_ID,Customer_Name,Room_Type,Check_In_Date,Check_Out_Date,Num_Guests,Total_Price,Booking_Status
+B001,John Smith,Single Room,2025-06-01,2025-06-03,1,$120,Confirmed
+B002,Sarah Johnson,Double Room,2025-06-05,2025-06-07,2,$180,Checked-in
+B003,Michael Brown,Twin Room,2025-06-10,2025-06-12,2,$190,Cancelled
+B004,Linda Davis,Family Room,2025-06-15,2025-06-18,4,$390,Confirmed
+B005,David Wilson,Suite Room,2025-06-20,2025-06-23,2,$600,Confirmed

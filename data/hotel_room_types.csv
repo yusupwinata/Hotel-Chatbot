@@ -1,0 +1,6 @@
+Room_Type,Description,Facility,Price_Per_Night,Max_Occupancy
+Single Room,A cozy room ideal for solo travelers,"Free Wi-Fi, Air Conditioning, Private Bathroom",$60,1
+Double Room,A comfortable room for two with a double bed,"Free Wi-Fi, TV, Mini Fridge, Private Bathroom",$90,2
+Twin Room,"A room with two separate single beds, perfect for friends or colleagues","Free Wi-Fi, Desk, Air Conditioning, Private Bathroom",$95,2
+Family Room,Spacious room suitable for small families,"Free Wi-Fi, TV, Sofa, Mini Fridge, Bunk Bed",$130,4
+Suite Room,A luxurious suite with a separate living area and premium amenities,"Free Wi-Fi, King Bed, Bathtub, Lounge Area, Coffee Maker",$200,2
